@@ -1,7 +1,1 @@
-tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaackopa27emaz4uteg4sseutmk3qq73iyoymttpyjdu34bilvxo3da"
-user_ocid = "ocid1.user.oc1..aaaaaaaamiadmuspqrgrnus4lmzdqs4puo2tv6diu7d6orjp5yq25jzkdbbq"
-fingerprint = "7d:f8:5d:77:e5:8e:cf:e8:2a:e1:09:ff:e7:68:99:f1"
-private_key_path = "oci_api_key.pem"
-region = "us-phoenix-1"
-compartment_id = "ocid1.compartment.oc1..aaaaaaaazno6nw5ur3ihwtfzdwyr4va3ess3i572ipclnplqn3fipt5axhvq"
-api_content = "petstore_openapi.json"
+none
